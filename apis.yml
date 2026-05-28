@@ -1,0 +1,32 @@
+aid: iqair
+name: IQAir
+description: "Air quality and weather data"
+url: https://www.iqair.com/air-pollution-data-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: IQAir
+    description: "Air quality and weather data"
+    humanURL: https://www.iqair.com/air-pollution-data-api
+    baseURL: https://www.iqair.com/air-pollution-data-api
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://www.iqair.com/air-pollution-data-api
+common:
+  - type: Website
+    url: https://www.iqair.com/air-pollution-data-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
