@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.iqair.com/air-pollution-data-api
 common:
+  - type: DomainSecurity
+    url: security/iqair-domain-security.yml
   - type: Website
     url: https://www.iqair.com/air-pollution-data-api
   - type: PublicAPIsListing
