@@ -39,7 +39,6 @@ apis:
   - name: IQAir
     description: "Air quality and weather data"
     humanURL: https://www.iqair.com/air-pollution-data-api
-    baseURL: https://www.iqair.com/air-pollution-data-api
     tags:
       - Environment
     properties:
